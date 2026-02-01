@@ -23,6 +23,7 @@
 
 ## 📊 Featured Projects
 - ❄️ **[Emerging Technologies and Sustainable Cooling](https://github.com/julipappano/sustainablecooling)** - Clustering analysis of enabling conditions for sustainable cooling business model innovation in developing countries
+- 🤰🏻 **[Adolescent Pregnancy and Policy Interventions](https://github.com/julipappano/teenpregnancy)** - DiD analysis to evaluate the effects of a public policy intervention to address adolescent pregnancy in Argentina
 - 🌱 **[Solar Potential Analysis](https://github.com/julipappano/solarpotential)** - Clustering analysis of rooftop solar potential and building characteristics in Dominican cities
 - 👥 **[Gender Equity in Governance](https://github.com/julipappano/women-policymaking)** - Impact evaluation of leadership quotas on public goods provision
 - 📚 **[Education Policy Study](https://github.com/julipappano/star)** - Evidence-based analysis of class size effects on student outcomes
