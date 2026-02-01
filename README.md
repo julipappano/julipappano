@@ -4,9 +4,9 @@
 
 🌱 **Mission**: Building digital solutions that advance sustainability and social inclusion
 
-🎓 **Background**: Public Policy + Digital Economy (WU Vienna) | Thesis: Emerging Technologies for Sustainability
+🎓 **Background**: Public Policy (CEU) + Digital Economy (WU Vienna)
 
-🔧 **Skills**: Product Research, Data Analysis, Digital Governance, Impact Measurement
+🔧 **Skills**: Public Policy Analysis, Digitalization for Development, Data Analysis, Program Implementation
 
 📍 **Based in**: Vienna, Austria
 
