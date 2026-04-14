@@ -1,6 +1,6 @@
 # Hi, I'm Juli 👋
 
-**Policy and Innovation Specialist** working at the intersection of digitalization, sustainability, and development implementation.
+**Policy and Innovation Specialist** working at the intersection of digitalization and international development.
 
 🌱 **Mission**: Building digital solutions that advance sustainability and social inclusion
 
