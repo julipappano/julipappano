@@ -12,7 +12,7 @@
 
 
 ## 🚀 What I'm Working On
-- Developing digital platforms for sustainable development organizations
+- Developing digital platforms for humanitarian and development organizations
 - Analyzing data at the intersection of technology, sustainability, and social impact
 - Bridging policy expertise with technical product development
 
