@@ -29,4 +29,4 @@
 - 📚 **[Education Policy Study](https://github.com/julipappano/star)** - Evidence-based analysis of class size effects on student outcomes
 
 ## 📫 Let's Connect
-[LinkedIn]https://linkedin.com/in/julipappano
+https://linkedin.com/in/julipappano
